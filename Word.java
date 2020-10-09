@@ -1,4 +1,12 @@
 public class Word {
-    public String word_target; //tu moi
-    public String Word_explain; // giai nghia
+    public String word_target;
+    public String word_explain;
+
+    public Word() {
+    }
+
+    public Word(String word_target, String word_explain) {
+        this.word_target = word_target;
+        this.word_explain = word_explain;
+    }
 }
