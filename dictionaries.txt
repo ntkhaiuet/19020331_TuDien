@@ -1,4 +1,6 @@
-Hello   Xin chao
-Active  Nang dong
-Action  Hanh dong
-Problem Van de
+hello : xin chao
+mouse : chuot
+action : hanh dong
+bird : chim
+tiger : ho
+table : ban
