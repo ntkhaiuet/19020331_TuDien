@@ -1,6 +1,6 @@
-hello : xin chao
-mouse : chuot
-action : hanh dong
-bird : chim
-tiger : ho
-table : ban
+bird	chim
+cat	con meo
+dog	con cho
+hello	xin chao
+hi	xin chao
+mouse	chuot
